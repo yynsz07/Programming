@@ -6,8 +6,6 @@
 
 ### 1.1 游戏客户端
 
-- [ ] 1
-
 |名称|网址|安装|
 |:-:|:-:|:-:|
 |Steam|||
@@ -190,10 +188,157 @@
             <td></td>
         </tr>
         <tr>
-            <td>Adobe</td>
+            <td rowspan="21">Adobe</td>
+            <td colspan="2">Acrobat DC</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
-            <td>JetBrains</td>
+            <td colspan="2">Photoshop</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2">Illustrator</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2">InDesign</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2">InCopy</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2">Lightroom</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2">Premier</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2">Premier</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2">After Effects</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2">Prelude</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2">Audition</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2">Media Encode</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2">Character Animator</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td rowspan="3">Substance 3D</td>
+            <td>Designer</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Painter</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Sampler</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2">Dimension</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2">Dreamweaver</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2">Animate</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2">Flash</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2">Experience Design</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td rowspan="9">JetBrains</td>
+            <td colspan="2">IntelliJ IDEA</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2">PhpStorm</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2">WebStorm</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2">Pycharm</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2">RubyMine</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2">Goland</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2">Rider</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2">CLion</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2">DataGrip</td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
