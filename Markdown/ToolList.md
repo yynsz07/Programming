@@ -40,7 +40,7 @@
 |网易UU|||
 |雷神|||
 
-## 2 应用工具
+## 2 计算机工具
 
 ### 2.1 操作系统与虚拟机
 
@@ -91,6 +91,23 @@
             <td></td>
         </tr>
         <tr>
+            <td>Google</td>
+            <td>Android</td>
+            <td></td>
+            <td></td>
+        </tr>
+         <tr>
+            <td rowspan="2">Apple</td>
+            <td>MacOS</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>iOS</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
             <td colspan="2">Docker</td>
             <td></td>
             <td></td>
@@ -126,7 +143,7 @@
     </thead>
     <tbody align="center">
         <tr>
-            <td rowspan="12">Microsoft</td>
+            <td rowspan="13">Microsoft</td>
             <td rowspan="9">Office</td>
             <td>Word</td>
             <td></td>
@@ -184,6 +201,11 @@
         </tr>
         <tr>
             <td colspan="2">SQL</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2">Edge</td>
             <td></td>
             <td></td>
         </tr>
@@ -340,6 +362,22 @@
             <td></td>
             <td></td>
         </tr>
+        <tr>
+            <td>Google</td>
+            <td colspan="2">Chrome</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="3">OBS</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="3">Insta360</td>
+            <td></td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 
@@ -347,6 +385,121 @@
 
 |名称|网址|安装|
 |:-:|:-:|:-:|
+|Github|||
+|Git|||
+|Dism++|||
+|Rufus|||
+|Bittorentq|||
+|Deskpins|||
+|JJDOWN|||
+|Unlocker|||
+|HEU_KMS_Activator|||
 
 ## 3 国产软件
 
+<table>
+    <thead>
+        <tr>
+            <th colspan="2">名称</th>
+            <th>网址</th>
+            <th>安装</th>
+        </tr>
+    </thead>
+    <tbody align="center">
+        <tr>
+            <td rowspan="5">腾讯</td>
+            <td>QQ</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>微信</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>QQ音乐</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>会议</td>
+            <td></td>
+            <td></td>
+        </tr>
+         <tr>
+            <td>微云</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td rowspan="2">网易</td>
+            <td>云音乐</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>有道词典</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td rowspan="2">百度</td>
+            <td>网盘</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>贴吧</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td rowspan="2">夸克</td>
+            <td>网盘</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>浏览器</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td rowspan="3">Bilibili</td>
+            <td>客户端</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>B站直播姬</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>必剪</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2">知乎</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2">微博</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2">抖音</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2">小红书</td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
