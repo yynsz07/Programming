@@ -1,4 +1,4 @@
-# 电脑应用软件名单
+# 应用软件名单
 
 ---
 
@@ -131,7 +131,7 @@
 |Mathematica|||
 |Matlab|||
 
-### 2.3 文件编辑与IDE
+### 2.3 文件编辑与浏览器
 
 <table>
     <thead>
@@ -378,6 +378,11 @@
             <td></td>
             <td></td>
         </tr>
+        <tr>
+            <td colspan="3">Obisidian</td>
+            <td></td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 
@@ -478,6 +483,17 @@
         </tr>
         <tr>
             <td>必剪</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td rowspan="2">阿里巴巴</td>
+            <td>阿里云盘</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>淘宝</td>
             <td></td>
             <td></td>
         </tr>
