@@ -2,520 +2,294 @@
 
 ---
 
-## 1 游戏工具
+# 目录
 
-### 1.1 游戏客户端
+- [[#1 游戏工具]]
+	- [[#1.1 游戏客户端]]
+	- [[#1.2 小游戏]]
+	- [[#1.3 大型游戏]]
+	- [[#1.4 游戏加速器]]
+- [[#2 计算机工具]]
+	- [[#2.1 操作系统与虚拟机]]
+	- [[#2.2 编程语言与编译器]]
+	- [[#2.3 文件编辑与浏览器]]
+	- [[#2.4 其他工具]]
+- [[#3 学习工具]]
+	- [[#3.1 数学]]
+	- [[#3.2 语言]]
+	- [[#3.3 编辑]]
+	- [[#3.4 音乐]]
+	- [[#3.5 人文]]
+- [[#4 资源库]]
+- [[#5 国产软件]]
 
-|名称|网址|安装|
-|:-:|:-:|:-:|
-|Steam|||
-|Epic||√|
-|Origin|||
-|Ubisoft|||
+---
 
-### 1.2 小游戏
+# 1 游戏工具
 
-|名称|网址|安装|
-|:-:|:-:|:-:|
-|Minesweeper|||
-|Hoduku|||
-|I wanna|||
-|3D Pinball|||
-|Majsoul|||
-|Minecraft|||
+## 1.1 游戏客户端
 
-### 1.3 大型游戏
+[[#目录]]
 
-|名称|网址|安装|
-|:-:|:-:|:-:|
-|LOL|||
-|剑网三|||
+| **应用名称** |                                                                  **官方网址**                                                                  | **安装路径** | **详细信息** |
+| :------: | :----------------------------------------------------------------------------------------------------------------------------------------: | :------: | :------: |
+|   Epic   |                                        [主页 - Epic Games](https://www.epicgames.com/site/zh-CN/home)                                        |          |          |
+|  Origin  | [PC Games and Computer Video Games for Download - Electronic Arts (ea.com)](https://www.ea.com/games/library/pc-download?isLocalized=true) |          |          |
+|  Steam   |                                      [欢迎来到 Steam (steampowered.com)](https://store.steampowered.com/)                                      |          |          |
+| Ubisoft  |                            [Ubisoft \| Welcome to the official Ubisoft website](https://www.ubisoft.com/en-us/)                            |          |          |
 
-### 1.4 游戏加速器
+## 1.2 小游戏
 
-|名称|网址|安装|
-|:-:|:-:|:-:|
-|WallToolkit|||
-|SakuraFrp|||
-|网易UU|||
-|雷神|||
+[[#目录]]
 
-## 2 计算机工具
+|       **应用名称**       |                                                      **官方网址**                                                      | **安装路径** | **详细信息** |
+| :------------------: | :----------------------------------------------------------------------------------------------------------------: | :------: | :------: |
+|      3D Pinball      |                                                                                                                    |          |          |
+|       麻将.麻雀一番街       |                                                                                                                    |          |          |
+|        麻将.雀魂         |                               [雀魂麻將 (maj-soul.net)](https://www.maj-soul.net/#/home)                               |          |          |
+|        麻将.雀姬         |                                                                                                                    |          |          |
+|        麻将.天凤         |                               [天鳳 \| 最高峰の対戦麻雀サイト (tenhou.net)](https://tenhou.net/)                                |          |          |
+|        Hoduku        | [HoDoKu - Sudoku generator/solver/trainer/analyzer (sourceforge.net)](https://hodoku.sourceforge.net/en/index.php) |          |          |
+|    HORIS.Euclidea    |         [Euclidea - Geometric Constructions Game with Straightedge and Compass](https://www.euclidea.xyz/)         |          |          |
+|   HORIS.Pythagorea   |                                                                                                                    |          |          |
+| HORIS.Pythagorea 60° |                                                                                                                    |          |          |
+|    HORIS.Sketches    |                                                                                                                    |          |          |
+|    HORIS.XSection    |                                                                                                                    |          |          |
+|       I wanna        |                                                                                                                    |          |          |
+|      Minecraft       |                       [欢迎来到 Minecraft 官方网站 \| Minecraft](https://www.minecraft.net/zh-hans)                        |          |          |
+|     Minesweeper      |                                                                                                                    |          |          |
 
-### 2.1 操作系统与虚拟机
+## 1.3 大型游戏
 
-<table>
-    <thead>
-        <tr>
-            <th colspan="2">名称</th>
-            <th>网址</th>
-            <th>安装</th>
-        </tr>
-    </thead>
-    <tbody align="center">
-        <tr>
-            <td rowspan="3">Windows</td>
-            <td>System</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>SubSystem for Linux</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>SubSystem for Android</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td rowspan="4">Linux</td>
-            <td>Ubuntu</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>CentOS7</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Deepin</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Debian</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Google</td>
-            <td>Android</td>
-            <td></td>
-            <td></td>
-        </tr>
-         <tr>
-            <td rowspan="2">Apple</td>
-            <td>MacOS</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>iOS</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="2">Docker</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="2">VMware</td>
-            <td></td>
-            <td></td>
-        </tr>
-    </tbody>
-</table>
+[[#目录]]
 
-### 2.2 编程语言与编译器
+| **应用名称** |                         **官方网址**                          | **安装路径** | **详细信息** |
+| :------: | :-------------------------------------------------------: | :------: | :------: |
+|   剑网三    |               https://jx3.xoyo.com/index/#/               |          |          |
+|   LOL    | [英雄联盟全新官方网站-腾讯游戏 (qq.com)](https://lol.qq.com/main.shtml) |          |          |
+|          |                                                           |          |          |
 
-|名称|网址|安装|
-|:-:|:-:|:-:|
-|Java|||
-|Python|||
-|MingGWw64|||
-|Latex|||
-|Mathematica|||
-|Matlab|||
+## 1.4 游戏加速器
 
-### 2.3 文件编辑与浏览器
+[[#目录]]
 
-<table>
-    <thead>
-        <tr>
-            <th colspan="3">名称</th>
-            <th>网址</th>
-            <th>安装</th>
-        </tr>
-    </thead>
-    <tbody align="center">
-        <tr>
-            <td rowspan="13">Microsoft</td>
-            <td rowspan="9">Office</td>
-            <td>Word</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Excel</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>PowerPoint</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Publisher</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Access</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Onenote</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Outlook</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Visio</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Project</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="2">Visual Studio Code</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="2">Visual Studio</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="2">SQL</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="2">Edge</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td rowspan="21">Adobe</td>
-            <td colspan="2">Acrobat DC</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="2">Photoshop</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="2">Illustrator</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="2">InDesign</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="2">InCopy</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="2">Lightroom</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="2">Premier</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="2">Premier</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="2">After Effects</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="2">Prelude</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="2">Audition</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="2">Media Encode</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="2">Character Animator</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td rowspan="3">Substance 3D</td>
-            <td>Designer</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Painter</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Sampler</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="2">Dimension</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="2">Dreamweaver</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="2">Animate</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="2">Flash</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="2">Experience Design</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td rowspan="9">JetBrains</td>
-            <td colspan="2">IntelliJ IDEA</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="2">PhpStorm</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="2">WebStorm</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="2">Pycharm</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="2">RubyMine</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="2">Goland</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="2">Rider</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="2">CLion</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="2">DataGrip</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Google</td>
-            <td colspan="2">Chrome</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="3">OBS</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="3">Insta360</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="3">Obisidian</td>
-            <td></td>
-            <td></td>
-        </tr>
-    </tbody>
-</table>
+|  **应用名称**   |                                                                         **官方网址**                                                                         | **安装路径** | **详细信息** |
+| :---------: | :------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :------: |
+|    雷神加速器    |                                             [雷神网游加速器-专线加速游戏,按分钟计费可暂停 (leigod.com)](https://www.leigod.com/)                                              |          |          |
+|   网易UU加速器   |                                                    [网易UU加速器——不止快，还很稳 (163.com)](https://uu.163.com/)                                                     |          |          |
+|  SakuraFrp  | [Sakura Frp \| 樱花内网穿透 — 免费内网穿透_免费端口映射_高速_高防节点_不限流量_Minecraft我的世界_微信开发调试_群辉NAS_无需公网_免备案 (natfrp.com)](https://www.natfrp.com/?page=panel&module=download) |          |          |
+| WallToolkit |                                          [瓦特工具箱(Steam++官网) - Watt Toolkit (steampp.net)](https://steampp.net/)                                           |          |          |
 
-### 2.4 其他工具
+# 2 计算机工具
 
-|名称|网址|安装|
-|:-:|:-:|:-:|
-|Github|||
-|Git|||
-|Dism++|||
-|Rufus|||
-|Bittorentq|||
-|Deskpins|||
-|JJDOWN|||
-|Unlocker|||
-|HEU_KMS_Activator|||
+## 2.1 操作系统与虚拟机
 
-## 3 国产软件
+[[#目录]]
 
-<table>
-    <thead>
-        <tr>
-            <th colspan="2">名称</th>
-            <th>网址</th>
-            <th>安装</th>
-        </tr>
-    </thead>
-    <tbody align="center">
-        <tr>
-            <td rowspan="5">腾讯</td>
-            <td>QQ</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>微信</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>QQ音乐</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>会议</td>
-            <td></td>
-            <td></td>
-        </tr>
-         <tr>
-            <td>微云</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td rowspan="2">网易</td>
-            <td>云音乐</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>有道词典</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td rowspan="2">百度</td>
-            <td>网盘</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>贴吧</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td rowspan="2">夸克</td>
-            <td>网盘</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>浏览器</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td rowspan="3">Bilibili</td>
-            <td>客户端</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>B站直播姬</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>必剪</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td rowspan="2">阿里巴巴</td>
-            <td>阿里云盘</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>淘宝</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="2">知乎</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="2">微博</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="2">抖音</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td colspan="2">小红书</td>
-            <td></td>
-            <td></td>
-        </tr>
-    </tbody>
-</table>
+|                **应用名称**                 |                                        **官方网址**                                         | **安装路径** |     **详细信息**      |
+| :-------------------------------------: | :-------------------------------------------------------------------------------------: | :------: | :---------------: |
+|            Apple.iPhone.iOS             |              [iOS 17 - Apple (中国大陆)](https://www.apple.com.cn/ios/ios-17/)              |          |                   |
+|           Apple.MacBook.MacOS           |       [如何下载和安装 macOS - 官方 Apple 支持 (中国)](https://support.apple.com/zh-cn/102662)        |          |                   |
+|                 Docker                  |    [Docker: Accelerated Container Application Development](https://www.docker.com/)     |          |                   |
+|             Google.Android              |                                                                                         |          | [[#2.2 编程语言与编译器]] |
+|            Huawei.HarmonyOS             |                                                                                         |          | [[#2.2 编程语言与编译器]] |
+|              Linux.CentOS7              |                                                                                         |          |                   |
+|              Linux.Debian               |                                                                                         |          |                   |
+|              Linux.Deepin               |                                                                                         |          |                   |
+|              Linux.Kernel               | [The Linux Kernel Archives](https://kernel.org/)  https://www.linux.org/pages/download/ |          |                   |
+|              Linux.RedHat               |                                                                                         |          |                   |
+|              Linux.Ubuntu               |                                                                                         |          |                   |
+| Microsoft.Windows.SubSystem for Android |                                                                                         |          |                   |
+|  Microsoft.Windows.SubSystem for Linux  |                                                                                         |          |                   |
+|        Microsoft.Windows.System         |                                                                                         |          |                   |
+|                 VMware                  |   [VMware - Delivering a Digital Foundation For Businesses](https://www.vmware.com/)    |          |                   |
+
+## 2.2 编程语言与编译器
+
+[[#目录]]
+
+|       **应用名称**       |                                               **官方网址**                                               | **安装路径** | **详细信息** |
+| :------------------: | :--------------------------------------------------------------------------------------------------: | :------: | :------: |
+|    Android Studio    | [Android 开发者  \|  Android Developers (google.cn)](https://developer.android.google.cn/?hl=zh-cn)<br> |          |          |
+|         CSS          |                                                                                                      |          |          |
+|        Desmos        |                                                                                                      |          |          |
+|       Geogebra       |                                                                                                      |          |          |
+|         HTML         |                                                                                                      |          |          |
+|         Java         |                                                                                                      |          |          |
+|      Javascript      |                                                                                                      |          |          |
+|        Latex         |                                                                                                      |          |          |
+|       Markdown       |                                                                                                      |          |          |
+|     Mathematica      |                                                                                                      |          |          |
+|        Matlab        |                                                                                                      |          |          |
+|      MingGWw64       |                                                                                                      |          |          |
+|        Python        |                                                                                                      |          |          |
+|        XCode         |                                                                                                      |          |          |
+| HUAWEI DevEco Studio |  [HarmonyOS开发_HarmonyOS生态_HarmonyOS操作系统应用设备开发 - HarmonyOS官网](https://www.harmonyos.com/cn/develop)   |          |          |
+|       Node.js        |                                                                                                      |          |          |
+|         .NET         |                                                                                                      |          |          |
+
+## 2.3 文件编辑与浏览器
+
+[[#目录]]
+
+|           **应用名称**           | **官方网址** | **安装路径** | **详细信息** |
+| :--------------------------: | :------: | :------: | :------: |
+|       Adobe.Acrobat DC       |          |          |          |
+|     Adobe.After Effects      |          |          |          |
+|        Adobe.Animate         |          |          |          |
+|        Adobe.Audition        |          |          |          |
+|   Adobe.Character Animator   |          |          |          |
+|       Adobe.Dimension        |          |          |          |
+|      Adobe.Dreamweaver       |          |          |          |
+|   Adobe.Experience Design    |          |          |          |
+|         Adobe.Flash          |          |          |          |
+|      Adobe.Illustrator       |          |          |          |
+|         Adobe.InCopy         |          |          |          |
+|        Adobe.InDesign        |          |          |          |
+|       Adobe.Lightroom        |          |          |          |
+|      Adobe.Media Encode      |          |          |          |
+|       Adobe.Photoshop        |          |          |          |
+|        Adobe.Prelude         |          |          |          |
+|        Adobe.Premier         |          |          |          |
+| Adobe.Substance 3D.Designer  |          |          |          |
+|  Adobe.Substance 3D.Painter  |          |          |          |
+|  Adobe.Substance 3D.Sampler  |          |          |          |
+|             CMD              |          |          |          |
+|        Google.Chrome         |          |          |          |
+|           HBuilder           |          |          |          |
+|           Insta360           |          |          |          |
+|       JetBrains.CLion        |          |          |          |
+|      JetBrains.DataGrip      |          |          |          |
+|       JetBrains.Goland       |          |          |          |
+|   JetBrains.IntelliJ IDEA    |          |          |          |
+|      JetBrains.PhpStorm      |          |          |          |
+|      JetBrains.Pycharm       |          |          |          |
+|       JetBrains.Rider        |          |          |          |
+|      JetBrains.RubyMine      |          |          |          |
+|      JetBrains.WebStorm      |          |          |          |
+|     Microsoft.Clipchamp      |          |          |          |
+|        Microsoft.Edge        |          |          |          |
+|   Microsoft.Office.Access    |          |          |          |
+|    Microsoft.Office.Excel    |          |          |          |
+|   Microsoft.Office.OneNote   |          |          |          |
+|   Microsoft.Office.Outlook   |          |          |          |
+| Microsoft.Office.PowerPoint  |          |          |          |
+|   Microsoft.Office.Project   |          |          |          |
+|  Microsoft.Office.Publisher  |          |          |          |
+|    Microsoft.Office.Visio    |          |          |          |
+|    Microsoft.Office.Word     |          |          |          |
+|        Microsoft.SQL         |          |          |          |
+|   Microsoft.Visual Studio    |          |          |          |
+| Microsoft.Visual Studio Code |          |          |          |
+|          Obisidian           |          |          |          |
+|          OBS Studio          |          |          |          |
+|          Powershell          |          |          |          |
+|           UltraISO           |          |          |          |
+
+## 2.4 其他工具
+
+[[#目录]]
+
+|     **应用名称**      | **官方网址** | **安装路径** | **详细信息** |
+| :---------------: | :------: | :------: | :------: |
+|    Bittorentq     |          |          |          |
+|     Deskpins      |          |          |          |
+|      Dism++       |          |          |          |
+|        Git        |          |          |          |
+|      Github       |          |          |          |
+| HEU_KMS_Activator |          |          |          |
+|      JJDOWN       |          |          |          |
+|       Rufus       |          |          |          |
+|     Unlocker      |          |          |          |
+|      Beamoff      |          |          |          |
+
+# 3 学习工具
+
+## 3.1 数学
+
+[[#目录]]
+
+|     **应用名称**     | **官方网址** | **安装路径** |     **详细信息**      |
+| :--------------: | :------: | :------: | :---------------: |
+|     Geogebra     |          |          | [[#2.2 编程语言与编译器]] |
+|      Desmos      |          |          | [[#2.2 编程语言与编译器]] |
+|  HORIS.Euclidea  |          |          |   [[#1.2 小游戏]]    |
+| Exponential Idle |          |          |                   |
+
+## 3.2 语言
+
+[[#目录]]
+
+| **应用名称** | **官方网址** | **安装路径** | **详细信息** |
+| :------: | :------: | :------: | :------: |
+|   不背单词   |          |          |          |
+|   百词斩    |          |          |          |
+|  沪江开心词场  |          |          |          |
+|  标准日本语   |          |          |          |
+|  日语训练营   |          |          |          |
+|   多邻国    |          |          |          |
+
+## 3.3 编辑
+
+[[#目录]]
+
+| **应用名称**  | **官方网址** | **安装路径** | **详细信息** |
+| :-------: | :------: | :------: | :------: |
+| Sololearn |          |          |          |
+| iOS开发教程系列 |          |          |          |
+
+## 3.4 音乐
+
+[[#目录]]
+
+| **应用名称** | **官方网址** | **安装路径** | **详细信息** |
+| :------: | :------: | :------: | :------: |
+|   虫虫钢琴   |          |          |          |
+|   弹琴吧    |          |          |          |
+
+## 3.5 人文
+
+[[#目录]]
+
+|   **应用名称**   | **官方网址** | **安装路径** | **详细信息** |
+| :----------: | :------: | :------: | :------: |
+| Solar Walk 2 |          |          |          |
+| Star Walk 2  |          |          |          |
+
+# 4 资源库
+
+[[#目录]]
+
+| **应用名称**  |                                      **官方网址**                                       | **安装路径** | **详细信息** |
+| :-------: | :---------------------------------------------------------------------------------: | :------: | :------: |
+| 镜像站.清华大学  | [清华大学开源软件镜像站 \| Tsinghua Open Source Mirror](https://mirrors.tuna.tsinghua.edu.cn/) |          |          |
+| Z-Library |  [Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。 (zlibrary-nl.se)](https://zh.zlibrary-nl.se/)  |          |          |
+
+
+# 5 国产软件
+
+[[#目录]]
+
+| **应用名称** | **官方网址** | **安装路径** |    **详细信息**    |
+| :------: | :------: | :------: | :------------: |
+| 阿里巴巴.淘宝  |          |          |                |
+| 阿里巴巴.云盘  |          |          |                |
+|  百度.贴吧   |          |          |                |
+|  百度.网盘   |          |          |                |
+|    抖音    |          |          |                |
+|  夸克.浏览器  |          |          |                |
+|  夸克.网盘   |          |          |                |
+|  腾讯.会议   |          |          |                |
+|  腾讯.微信   |          |          |                |
+|  腾讯.微云   |          |          |                |
+|  腾讯.QQ   |          |          |                |
+| 腾讯.QQ音乐  |          |          |                |
+| 网易.有道词典  |          |          |                |
+|  网易.云音乐  |          |          |                |
+| 网易.UU加速器 |          |          | [[#1.4 游戏加速器]] |
+|    微博    |          |          |                |
+|   小红书    |          |          |                |
+|    知乎    |          |          |                |
+|  B站.必剪   |          |          |                |
+|  B站.客户端  |          |          |                |
+| B站.B站直播姬 |          |          |                |
