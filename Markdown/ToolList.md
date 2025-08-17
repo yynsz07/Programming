@@ -2,18 +2,19 @@
 
 ---
 
-# 目录
+# 0 目录
 
 - [[#1 游戏工具]]
 	- [[#1.1 游戏客户端]]
 	- [[#1.2 小游戏]]
-	- [[#1.3 大型游戏]]
-	- [[#1.4 游戏加速器]]
+	- [[#1.3 Steam游戏]]
+	- [[#1.4 大型独立游戏]]
+	- [[#1.5 加速器]]
 - [[#2 计算机工具]]
 	- [[#2.1 操作系统与虚拟机]]
 	- [[#2.2 编程语言与编译器]]
 	- [[#2.3 文件编辑与浏览器]]
-	- [[#2.4 其他工具]]
+	- [[#2.4 绿色或开源工具]]
 - [[#3 学习工具]]
 	- [[#3.1 数学]]
 	- [[#3.2 语言]]
@@ -29,7 +30,7 @@
 
 ## 1.1 游戏客户端
 
-[[#目录]]
+[[#0 目录]]
 
 | **应用名称** |                                                                  **官方网址**                                                                  | **安装路径** | **详细信息** |
 | :------: | :----------------------------------------------------------------------------------------------------------------------------------------: | :------: | :------: |
@@ -40,7 +41,7 @@
 
 ## 1.2 小游戏
 
-[[#目录]]
+[[#0 目录]]
 
 |       **应用名称**       |                                                      **官方网址**                                                      | **安装路径** | **详细信息** |
 | :------------------: | :----------------------------------------------------------------------------------------------------------------: | :------: | :------: |
@@ -59,19 +60,21 @@
 |      Minecraft       |                       [欢迎来到 Minecraft 官方网站 \| Minecraft](https://www.minecraft.net/zh-hans)                        |          |          |
 |     Minesweeper      |                                                                                                                    |          |          |
 
-## 1.3 大型游戏
+## 1.3 Steam游戏
 
-[[#目录]]
+[[#0 目录]]
 
-| **应用名称** |                         **官方网址**                          | **安装路径** | **详细信息** |
-| :------: | :-------------------------------------------------------: | :------: | :------: |
-|   剑网三    |               https://jx3.xoyo.com/index/#/               |          |          |
-|   LOL    | [英雄联盟全新官方网站-腾讯游戏 (qq.com)](https://lol.qq.com/main.shtml) |          |          |
-|          |                                                           |          |          |
+## 1.4 大型独立游戏
 
-## 1.4 游戏加速器
+[[#0 目录]]
 
-[[#目录]]
+| **应用名称** |           **官方网址**            | **安装路径** | **详细信息** |
+| :------: | :---------------------------: | :------: | :------: |
+|   剑网三    | https://jx3.xoyo.com/index/#/ |          |          |
+
+## 1.5 加速器
+
+[[#0 目录]]
 
 |  **应用名称**   |                                                                         **官方网址**                                                                         | **安装路径** | **详细信息** |
 | :---------: | :------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :------: |
@@ -79,61 +82,88 @@
 |   网易UU加速器   |                                                    [网易UU加速器——不止快，还很稳 (163.com)](https://uu.163.com/)                                                     |          |          |
 |  SakuraFrp  | [Sakura Frp \| 樱花内网穿透 — 免费内网穿透_免费端口映射_高速_高防节点_不限流量_Minecraft我的世界_微信开发调试_群辉NAS_无需公网_免备案 (natfrp.com)](https://www.natfrp.com/?page=panel&module=download) |          |          |
 | WallToolkit |                                          [瓦特工具箱(Steam++官网) - Watt Toolkit (steampp.net)](https://steampp.net/)                                           |          |          |
+|   V2RayN    |                                                                                                                                                          |          |          |
+|    旋风加速器    |                                                                                                                                                          |          |          |
 
 # 2 计算机工具
 
 ## 2.1 操作系统与虚拟机
 
-[[#目录]]
+[[#0 目录]]
 
 |                **应用名称**                 |                                        **官方网址**                                         | **安装路径** |     **详细信息**      |
 | :-------------------------------------: | :-------------------------------------------------------------------------------------: | :------: | :---------------: |
 |            Apple.iPhone.iOS             |              [iOS 17 - Apple (中国大陆)](https://www.apple.com.cn/ios/ios-17/)              |          |                   |
 |           Apple.MacBook.MacOS           |       [如何下载和安装 macOS - 官方 Apple 支持 (中国)](https://support.apple.com/zh-cn/102662)        |          |                   |
-|                 Docker                  |    [Docker: Accelerated Container Application Development](https://www.docker.com/)     |          |                   |
 |             Google.Android              |                                                                                         |          | [[#2.2 编程语言与编译器]] |
 |            Huawei.HarmonyOS             |                                                                                         |          | [[#2.2 编程语言与编译器]] |
+|              Linux.Ubuntu               |                                                                                         |          | [[SystemPrepare]] |
 |              Linux.CentOS7              |                                                                                         |          |                   |
 |              Linux.Debian               |                                                                                         |          |                   |
 |              Linux.Deepin               |                                                                                         |          |                   |
 |              Linux.Kernel               | [The Linux Kernel Archives](https://kernel.org/)  https://www.linux.org/pages/download/ |          |                   |
 |              Linux.RedHat               |                                                                                         |          |                   |
-|              Linux.Ubuntu               |                                                                                         |          |                   |
-| Microsoft.Windows.SubSystem for Android |                                                                                         |          |                   |
-|  Microsoft.Windows.SubSystem for Linux  |                                                                                         |          |                   |
-|        Microsoft.Windows.System         |                                                                                         |          |                   |
+|        Microsoft.Windows.System         |                                                                                         |          | [[SystemPrepare]] |
+| Microsoft.Windows.SubSystem for Android |                                                                                         |          | [[SystemPrepare]] |
+|  Microsoft.Windows.SubSystem for Linux  |                                                                                         |          | [[SystemPrepare]] |
+|        Microsoft.Windows.HyperV         |                                                                                         |          | [[SystemPrepare]] |
 |                 VMware                  |   [VMware - Delivering a Digital Foundation For Businesses](https://www.vmware.com/)    |          |                   |
+|                 Docker                  |    [Docker: Accelerated Container Application Development](https://www.docker.com/)     |          | [[SystemPrepare]] |
 
 ## 2.2 编程语言与编译器
 
-[[#目录]]
+[[#0 目录]]
 
-|       **应用名称**       |                                               **官方网址**                                               | **安装路径** | **详细信息** |
-| :------------------: | :--------------------------------------------------------------------------------------------------: | :------: | :------: |
-|    Android Studio    | [Android 开发者  \|  Android Developers (google.cn)](https://developer.android.google.cn/?hl=zh-cn)<br> |          |          |
-|         CSS          |                                                                                                      |          |          |
-|        Desmos        |                                                                                                      |          |          |
-|       Geogebra       |                                                                                                      |          |          |
-|         HTML         |                                                                                                      |          |          |
-|         Java         |                                                                                                      |          |          |
-|      Javascript      |                                                                                                      |          |          |
-|        Latex         |                                                                                                      |          |          |
-|       Markdown       |                                                                                                      |          |          |
-|     Mathematica      |                                                                                                      |          |          |
-|        Matlab        |                                                                                                      |          |          |
-|      MingGWw64       |                                                                                                      |          |          |
-|        Python        |                                                                                                      |          |          |
-|        XCode         |                                                                                                      |          |          |
-| HUAWEI DevEco Studio |  [HarmonyOS开发_HarmonyOS生态_HarmonyOS操作系统应用设备开发 - HarmonyOS官网](https://www.harmonyos.com/cn/develop)   |          |          |
-|       Node.js        |                                                                                                      |          |          |
-|         .NET         |                                                                                                      |          |          |
+|          **应用名称**           |                                               **官方网址**                                               | **安装路径** |     **详细信息**      |
+| :-------------------------: | :--------------------------------------------------------------------------------------------------: | :------: | :---------------: |
+|   Android.Android Studio    | [Android 开发者  \|  Android Developers (google.cn)](https://developer.android.google.cn/?hl=zh-cn)<br> |          |                   |
+|        Microsoft.CMD        |                                                                                                      |          |                   |
+|    Microsoft.Powershell     |                                                                                                      |          |                   |
+|       Microsoft..NET        |                                                                                                      |          |                   |
+| Huawei.Huawei DevEco Studio |  [HarmonyOS开发_HarmonyOS生态_HarmonyOS操作系统应用设备开发 - HarmonyOS官网](https://www.harmonyos.com/cn/develop)   |          |                   |
+|         Apple.XCode         |                                                                                                      |          |                   |
+|            Java             |                                                                                                      |          | [[SystemPrepare]] |
+|          MingGWw64          |                                                                                                      |          |                   |
+|           Python            |                                                                                                      |          |                   |
+|          Markdown           |                                                                                                      |          |                   |
+|            HTML             |                                                                                                      |          |                   |
+|             CSS             |                                                                                                      |          |                   |
+|         Javascript          |                                                                                                      |          |                   |
+|           Node.js           |                                                                                                      |          |                   |
+|            Latex            |                                                                                                      |          |                   |
+|         Mathematica         |                                                                                                      |          |                   |
+|           Matlab            |                                                                                                      |          |                   |
+|           Desmos            |                                                                                                      |          |                   |
+|          Geogebra           |                                                                                                      |          |                   |
 
 ## 2.3 文件编辑与浏览器
 
-[[#目录]]
+[[#0 目录]]
 
 |           **应用名称**           | **官方网址** | **安装路径** | **详细信息** |
 | :--------------------------: | :------: | :------: | :------: |
+|          Obisidian           |          |          |          |
+|          EduEditor           |          |          |          |
+|        TexWorksEditor        |          |          |          |
+|           HBuilder           |          |          |          |
+|          OBS Studio          |          |          |          |
+|           Insta360           |          |          |          |
+|        Google.Chrome         |          |          |          |
+|      Microsoft.Terminal      |          |          |          |
+| Microsoft.Visual Studio Code |          |          |          |
+|   Microsoft.Visual Studio    |          |          |          |
+|     Microsoft.Clipchamp      |          |          |          |
+|        Microsoft.Edge        |          |          |          |
+|    Microsoft.Office.Word     |          |          |          |
+|    Microsoft.Office.Excel    |          |          |          |
+| Microsoft.Office.PowerPoint  |          |          |          |
+|   Microsoft.Office.OneNote   |          |          |          |
+|   Microsoft.Office.Outlook   |          |          |          |
+|    Microsoft.Office.Visio    |          |          |          |
+|   Microsoft.Office.Access    |          |          |          |
+|   Microsoft.Office.Project   |          |          |          |
+|  Microsoft.Office.Publisher  |          |          |          |
+|        Microsoft.SQL         |          |          |          |
 |       Adobe.Acrobat DC       |          |          |          |
 |     Adobe.After Effects      |          |          |          |
 |        Adobe.Animate         |          |          |          |
@@ -154,10 +184,6 @@
 | Adobe.Substance 3D.Designer  |          |          |          |
 |  Adobe.Substance 3D.Painter  |          |          |          |
 |  Adobe.Substance 3D.Sampler  |          |          |          |
-|             CMD              |          |          |          |
-|        Google.Chrome         |          |          |          |
-|           HBuilder           |          |          |          |
-|           Insta360           |          |          |          |
 |       JetBrains.CLion        |          |          |          |
 |      JetBrains.DataGrip      |          |          |          |
 |       JetBrains.Goland       |          |          |          |
@@ -167,47 +193,33 @@
 |       JetBrains.Rider        |          |          |          |
 |      JetBrains.RubyMine      |          |          |          |
 |      JetBrains.WebStorm      |          |          |          |
-|     Microsoft.Clipchamp      |          |          |          |
-|        Microsoft.Edge        |          |          |          |
-|   Microsoft.Office.Access    |          |          |          |
-|    Microsoft.Office.Excel    |          |          |          |
-|   Microsoft.Office.OneNote   |          |          |          |
-|   Microsoft.Office.Outlook   |          |          |          |
-| Microsoft.Office.PowerPoint  |          |          |          |
-|   Microsoft.Office.Project   |          |          |          |
-|  Microsoft.Office.Publisher  |          |          |          |
-|    Microsoft.Office.Visio    |          |          |          |
-|    Microsoft.Office.Word     |          |          |          |
-|        Microsoft.SQL         |          |          |          |
-|   Microsoft.Visual Studio    |          |          |          |
-| Microsoft.Visual Studio Code |          |          |          |
-|          Obisidian           |          |          |          |
-|          OBS Studio          |          |          |          |
-|          Powershell          |          |          |          |
-|           UltraISO           |          |          |          |
 
-## 2.4 其他工具
+## 2.4 绿色或开源工具
 
-[[#目录]]
+[[#0 目录]]
 
 |     **应用名称**      | **官方网址** | **安装路径** | **详细信息** |
 | :---------------: | :------: | :------: | :------: |
-|    Bittorentq     |          |          |          |
+|    AzukiCursor    |          |          |          |
+|     BongoCat      |          |          |          |
 |     Deskpins      |          |          |          |
+|    DiskGenius     |          |          |          |
 |      Dism++       |          |          |          |
+|      FFmpeg       |          |          |          |
+|     Folcolor      |          |          |          |
 |        Git        |          |          |          |
 |      Github       |          |          |          |
 | HEU_KMS_Activator |          |          |          |
 |      JJDOWN       |          |          |          |
+|      Ollama       |          |          |          |
+|      PixPin       |          |          |          |
 |       Rufus       |          |          |          |
-|     Unlocker      |          |          |          |
-|      Beamoff      |          |          |          |
 
 # 3 学习工具
 
 ## 3.1 数学
 
-[[#目录]]
+[[#0 目录]]
 
 |     **应用名称**     | **官方网址** | **安装路径** |     **详细信息**      |
 | :--------------: | :------: | :------: | :---------------: |
@@ -218,7 +230,7 @@
 
 ## 3.2 语言
 
-[[#目录]]
+[[#0 目录]]
 
 | **应用名称** | **官方网址** | **安装路径** | **详细信息** |
 | :------: | :------: | :------: | :------: |
@@ -231,7 +243,7 @@
 
 ## 3.3 编辑
 
-[[#目录]]
+[[#0 目录]]
 
 | **应用名称**  | **官方网址** | **安装路径** | **详细信息** |
 | :-------: | :------: | :------: | :------: |
@@ -240,7 +252,7 @@
 
 ## 3.4 音乐
 
-[[#目录]]
+[[#0 目录]]
 
 | **应用名称** | **官方网址** | **安装路径** | **详细信息** |
 | :------: | :------: | :------: | :------: |
@@ -249,7 +261,7 @@
 
 ## 3.5 人文
 
-[[#目录]]
+[[#0 目录]]
 
 |   **应用名称**   | **官方网址** | **安装路径** | **详细信息** |
 | :----------: | :------: | :------: | :------: |
@@ -258,7 +270,7 @@
 
 # 4 资源库
 
-[[#目录]]
+[[#0 目录]]
 
 | **应用名称**  |                                      **官方网址**                                       | **安装路径** | **详细信息** |
 | :-------: | :---------------------------------------------------------------------------------: | :------: | :------: |
@@ -268,7 +280,7 @@
 
 # 5 国产软件
 
-[[#目录]]
+[[#0 目录]]
 
 | **应用名称** | **官方网址** | **安装路径** |    **详细信息**    |
 | :------: | :------: | :------: | :------------: |

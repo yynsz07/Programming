@@ -1,4 +1,37 @@
-# 1 系统下载
+# 系统准备
+
+---
+
+# 0 目录
+
+- [[#1 Windows系统下载与安装]]
+- [[#2 Windows子系统准备]]
+	- [[#2.1 开启CPU虚拟化]]
+	- [[#2.2 Hyper-V]]
+	- [[#2.3 Windows SubSystem for Linux.]]
+	- [[#2.4 Windows SubSystem for Android]]
+	- [[#2.5 Phone Experience Host]]
+	- [[#2.6 Windows sandbox]]
+- [[#3 系统配置]]
+	- [[#3.1 python安装与软件源配置]]
+	- [[#3.2 Java安装]]
+	- [[#3.3 C++安装]]
+	- [[#3.4 Docker安装]]
+	- [[#3.5 ssh服务]]
+- [[#4 Linux系统]]
+	- [[#4.1 Ubuntu软件源配置]]
+	- [[#4.2 Python安装与软件源配置]]
+	- [[#4.3 Java安装]]
+	- [[#4.4 C++安装]]
+	- [[#4.5 Docker安装]]
+	- [[#4.6 ssh服务]]
+
+---
+
+# 1 Windows系统下载与安装
+
+[[#0 目录]]
+
 1. 下载最新版微软系统
 [UUP dump](https://uupdump.net/)
 
@@ -30,8 +63,21 @@ EnableExternalVolumes的值设为0
 
 9. 登录微软账户并进行个性化编辑，重启电脑
 
-# 2 子系统准备
-## 2.1 Hyper-V
+# 2 Windows子系统准备
+## 2.1 开启CPU虚拟化
+
+[[#0 目录]]
+
+1. 启动电脑进入BIOS
+
+2. 找到开启CPU虚拟化设置并启用
+
+3. 打开任务管理器，点击性能查看虚拟化是否已开启
+
+## 2.2 Hyper-V
+
+[[#0 目录]]
+
 1. 设置-系统-可选功能-更多Windows功能
 启用Hyper-V, Virtual Machine Platform
 
@@ -48,11 +94,14 @@ Get-VMProcessor -VMName "*" | Format-List
 Set-VMProcessor -ExposeVirtualizationExtensions $true -VMName "*"
 ```
 
-## 2.2 Windows SubSystem for Linux.
+## 2.3 Windows SubSystem for Linux.
+
+[[#0 目录]]
+
 1. 启用Hyper-V
 
 2. 设置-系统-可选功能-更多Windows功能
-适用于Linux的Windows子系统
+开启适用于Linux的Windows子系统
 
 3. 开启Steam++加速器加速github
 
@@ -82,7 +131,10 @@ ipv6=true
 vmSwitch=WiFi
 ```
 
-## 2.3 Windows SubSystem for Android
+## 2.4 Windows SubSystem for Android
+
+[[#0 目录]]
+
 1. 启用Hyper-V
 
 2. 下载WSA的appx包并双击打开安装
@@ -99,66 +151,26 @@ adb connect HOST[:PORT]
 adb install *.apk
 ```
 
-## 2.4 手机连接
+## 2.5 Phone Experience Host
+
+[[#0 目录]]
+
 1. 电脑端：手机连接
 
 2. 手机端：oppo默认已安装”连接至Windows“应用
 
-## 2.5 Windows沙盒
+## 2.6 Windows sandbox
+
+[[#0 目录]]
+
 1. 设置-系统-可选功能-更多Windows功能
 启用Windows沙盒
 
 # 3 系统配置
-## 3.1 ssh服务
+## 3.1 python安装与软件源配置
 
+[[#0 目录]]
 
-## 3.2 Ubuntu软件源配置
-1. [ubuntu | 镜像站使用帮助 | 清华大学开源软件镜像站 | Tsinghua Open Source Mirror](https://mirrors.tuna.tsinghua.edu.cn/help/ubuntu/)
-制作/etc/apt/sources.list文件并拷贝（24.04Noble）
-```
-# 默认注释了源码镜像以提高 apt update 速度，如有需要可自行取消注释
-deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ noble main restricted universe multiverse
-deb-src https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ noble main restricted universe multiverse
-deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ noble-updates main restricted universe multiverse
-deb-src https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ noble-updates main restricted universe multiverse
-deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ noble-backports main restricted universe multiverse
-deb-src https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ noble-backports main restricted universe multiverse
-
-# 以下安全更新软件源包含了官方源与镜像站配置，如有需要可自行修改注释切换
-deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ noble-security main restricted universe multiverse
-deb-src https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ noble-security main restricted universe multiverse
-
-# 预发布软件源，不建议启用
-deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ noble-proposed main restricted universe multiverse
-deb-src https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ noble-proposed main restricted universe multiverse
-```
-
-2. 查找并安装软件包
-```
-apt update
-apt list --installed | grep *
-apt install
-```
-
-3. python安装pip
-```
-apt install python3-pip
-rm /usr/lib/python3.x/EXTERNALLY-MANAGED
-pip install --upgrade pip
-```
-
-4. 设置pip源（清华源）
-```
-pip config set global.index-url https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple
-pip config set global.extra-index-url "https://mirrors.ustc.edu.cn/pypi/simple <url2>..."
-```
-
-5. 安装pip包
-```
-pip install
-```
-
-## 3.3 python软件源配置
 1. python下载embed版
 [Python Releases for Windows | Python.org](https://www.python.org/downloads/windows/)
 
@@ -194,3 +206,90 @@ index-url = https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple
 [install]
 trusted-host=mirrors.tuna.tsinghua.edu.cn
 ```
+
+## 3.2 Java安装
+
+[[#0 目录]]
+
+## 3.3 C++安装
+
+[[#0 目录]]
+
+## 3.4 Docker安装
+
+[[#0 目录]]
+
+## 3.5 ssh服务
+
+[[#0 目录]]
+
+# 4 Linux系统
+## 4.1 Ubuntu软件源配置
+
+[[#0 目录]]
+
+1. [ubuntu | 镜像站使用帮助 | 清华大学开源软件镜像站 | Tsinghua Open Source Mirror](https://mirrors.tuna.tsinghua.edu.cn/help/ubuntu/)
+制作/etc/apt/sources.list文件并拷贝（24.04Noble）
+```
+# 默认注释了源码镜像以提高 apt update 速度，如有需要可自行取消注释
+deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ noble main restricted universe multiverse
+deb-src https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ noble main restricted universe multiverse
+deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ noble-updates main restricted universe multiverse
+deb-src https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ noble-updates main restricted universe multiverse
+deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ noble-backports main restricted universe multiverse
+deb-src https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ noble-backports main restricted universe multiverse
+
+# 以下安全更新软件源包含了官方源与镜像站配置，如有需要可自行修改注释切换
+deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ noble-security main restricted universe multiverse
+deb-src https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ noble-security main restricted universe multiverse
+
+# 预发布软件源，不建议启用
+deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ noble-proposed main restricted universe multiverse
+deb-src https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ noble-proposed main restricted universe multiverse
+```
+
+## 4.2 Python安装与软件源配置
+
+[[#0 目录]]
+
+1. 查找并安装软件包
+```
+apt update
+apt list --installed | grep *
+apt install
+```
+
+2. python安装pip
+```
+apt install python3-pip
+rm /usr/lib/python3.x/EXTERNALLY-MANAGED
+pip install --upgrade pip
+```
+
+3. 设置pip源（清华源）
+```
+pip config set global.index-url https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple
+pip config set global.extra-index-url "https://mirrors.ustc.edu.cn/pypi/simple <url2>..."
+```
+
+4. 安装pip包
+```
+pip install
+```
+
+## 4.3 Java安装
+
+[[#0 目录]]
+
+## 4.4 C++安装
+
+[[#0 目录]]
+
+## 4.5 Docker安装
+
+[[#0 目录]]
+
+## 4.6 ssh服务
+
+[[#0 目录]]
+
